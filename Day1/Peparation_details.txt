@@ -1,0 +1,16 @@
+#############################################
+###           Preparation topics          ###
+#############################################
+
+1. Compilation Stages
+2. What is a compiler?
+3. What is a assembler?
+4. What are the different possible errors on different stages?
+	a. Pre-processing stage errors
+	b. Compilation stage errors
+	c. Linking stage errors
+5. Different types of linking ?
+	a. Static Linking
+	b. Dynamic Linking
+6. Advantage and Disadvantages of Static and Dynamic Linking.
+
