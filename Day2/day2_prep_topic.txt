@@ -1,0 +1,13 @@
+#############################################
+###           Preparation topics          ###
+#############################################
+
+Language Basics
+
+1. Characteristics of C
+2. Design Methodologies
+3. Structure of C program
+4. Character set
+5. Identifiers
+6. Keywords
+
