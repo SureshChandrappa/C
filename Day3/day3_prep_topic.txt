@@ -1,0 +1,18 @@
+#############################################
+###           Preparation topics          ###
+#############################################
+
+Types
+
+1. Basic Data Types
+2. Constants
+	Integer, Real No, Char , Strings
+3. Number representation 
+	Binary, Hexa-decimal , Octal
+4. Signed representation -> 2's compliment
+5. Signed v/s Unsigned
+6. Sizes, Ranges, Allignment
+7. Memory Terms
+	Byte, Nibble, Word, Long, Quard
+	KB, MB , GB
+
